@@ -7,5 +7,5 @@ public class HomeController extends Controller {
     public static Result index() {
         return redirect("/towner/login");
     }
-    //
+    //s
 }
